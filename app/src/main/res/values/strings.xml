@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Wisdom, Badulla</string>
+    <string name="title_activity_main">Main</string>
+
+    <string name="hint_email">Parent Mobile Number</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_spinner">Type</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Contact wisdom.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="btn_LoadTime">Time</string>
+    <string name="btn_Mrk">Mark</string>
+    <string name="name">Fullname</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_table">activityTable</string>
+    <string name="title_activity_tables">tables</string>
+    <string name="title_activity_load_time">LoadTime</string>
+</resources>
